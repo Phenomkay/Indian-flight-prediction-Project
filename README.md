@@ -16,7 +16,6 @@ Exploratory Data Analysis was performed to understand the distribution of flight
 Data preprocessing steps included:
 - Handling missing values
 - Encoding categorical variables using Label Encoding
-- Normalizing or standardizing numerical features
 - Splitting the dataset into training and testing sets
 
 These steps ensured that the data was in a suitable format for modeling.
